@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moviepedia/static/css/main.9f745ad4.chunk.css",
+    "main.js": "/moviepedia/static/js/main.beed963b.chunk.js",
+    "main.js.map": "/moviepedia/static/js/main.beed963b.chunk.js.map",
+    "runtime-main.js": "/moviepedia/static/js/runtime-main.fe7d8040.js",
+    "runtime-main.js.map": "/moviepedia/static/js/runtime-main.fe7d8040.js.map",
+    "static/js/2.0417751e.chunk.js": "/moviepedia/static/js/2.0417751e.chunk.js",
+    "static/js/2.0417751e.chunk.js.map": "/moviepedia/static/js/2.0417751e.chunk.js.map",
+    "static/js/3.db1fd2ac.chunk.js": "/moviepedia/static/js/3.db1fd2ac.chunk.js",
+    "static/js/3.db1fd2ac.chunk.js.map": "/moviepedia/static/js/3.db1fd2ac.chunk.js.map",
+    "index.html": "/moviepedia/index.html",
+    "static/css/main.9f745ad4.chunk.css.map": "/moviepedia/static/css/main.9f745ad4.chunk.css.map",
+    "static/js/2.0417751e.chunk.js.LICENSE.txt": "/moviepedia/static/js/2.0417751e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe7d8040.js",
+    "static/js/2.0417751e.chunk.js",
+    "static/css/main.9f745ad4.chunk.css",
+    "static/js/main.beed963b.chunk.js"
+  ]
+}
